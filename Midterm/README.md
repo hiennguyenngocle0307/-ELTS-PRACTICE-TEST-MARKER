@@ -5,12 +5,13 @@ Bộ đề thi giữa kỳ, đặt tên **Midterm-TÂM LINH**.
 ```
 Midterm/
 └── Grammar/
-    ├── Midterm_1/                      (đợt 1 – nguồn: GRAMMAR_MID_L_N_1 + Combine Sentences MID GR Lần 1)
-    │   ├── De_thi_va_Phieu_tra_loi/    20 file: đề thi + Student Answer Sheet (trang cuối)
-    │   └── Dap_an/                     20 file: Answer Key + giải thích chi tiết + nguồn (dành cho giáo viên)
-    └── Midterm_2/                      (đợt 2 – nguồn: GRAMMAR_MID_L_N_2 + Combine Sentences MID GR Lần 2)
-        ├── De_thi_va_Phieu_tra_loi/
-        └── Dap_an/
+    └── TÂM LINH Midterm Test/          (thư mục riêng của bộ đề Midterm-TÂM LINH)
+        ├── Midterm_1/                  (đợt 1 – nguồn: GRAMMAR_MID_L_N_1 + Combine Sentences MID GR Lần 1)
+        │   ├── De_thi_va_Phieu_tra_loi/    20 file: đề thi + Student Answer Sheet (trang cuối)
+        │   └── Dap_an/                     20 file: Answer Key + giải thích chi tiết + nguồn (giáo viên)
+        └── Midterm_2/                  (đợt 2 – nguồn: GRAMMAR_MID_L_N_2 + Combine Sentences MID GR Lần 2)
+            ├── De_thi_va_Phieu_tra_loi/
+            └── Dap_an/
 ```
 
 ## Cấu trúc mỗi mã đề (24 câu, 10 điểm, 45 phút)

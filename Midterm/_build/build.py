@@ -305,7 +305,7 @@ def main():
         d,mc=pick_mc(tag,rng)
         pool,cb=pick_comb(tag,rng)
         cfgmods=CFG[tag]['modules']
-        base=os.path.join(OUT,'Grammar',f'Midterm_{midno}')
+        base=os.path.join(OUT,'Grammar',f'{BRAND.title() if False else BRAND} Midterm Test',f'Midterm_{midno}')
         os.makedirs(os.path.join(base,'De_thi_va_Phieu_tra_loi'),exist_ok=True)
         os.makedirs(os.path.join(base,'Dap_an'),exist_ok=True)
         for code in range(1,NCODES+1):
