@@ -1,0 +1,2299 @@
+[
+ {
+  "n": 1,
+  "title": "Crime Report & Community Safety Briefing",
+  "anchor": "[C14T1] - Crime Report Form | Cambridge 14 Test 1 as indexed by YouPass",
+  "url": "https://youpass.vn/thi-thu/listening/7475",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "POLICE LOST-PROPERTY / THEFT REPORT",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Caller surname"
+   },
+   {
+    "n": 2,
+    "label": "Nationality"
+   },
+   {
+    "n": 3,
+    "label": "Passport number"
+   },
+   {
+    "n": 4,
+    "label": "Current accommodation"
+   },
+   {
+    "n": 5,
+    "label": "Item stolen"
+   },
+   {
+    "n": 6,
+    "label": "Cash inside"
+   },
+   {
+    "n": 7,
+    "label": "Day of theft"
+   },
+   {
+    "n": 8,
+    "label": "Likely location"
+   },
+   {
+    "n": 9,
+    "label": "Bag colour"
+   },
+   {
+    "n": 10,
+    "label": "Reference number"
+   }
+  ],
+  "p2_title": "COMMUNITY SAFETY TALK",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each service with the correct location A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Why has the council changed the evening patrol route?",
+    "opts": {
+     "A": "To cover a new shopping area",
+     "B": "To reduce staff numbers",
+     "C": "To avoid roadworks"
+    }
+   },
+   {
+    "n": 12,
+    "q": "What should residents do first if they see suspicious behaviour?",
+    "opts": {
+     "A": "Post about it online",
+     "B": "Call the non-emergency police number",
+     "C": "Approach the person directly"
+    }
+   },
+   {
+    "n": 13,
+    "q": "Which item is most often reported missing at the weekend market?",
+    "opts": {
+     "A": "Bicycles",
+     "B": "Wallets",
+     "C": "Phones"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What does the speaker recommend for bicycles?",
+    "opts": {
+     "A": "A visible ID sticker",
+     "B": "A second lock only",
+     "C": "Parking beside the cafe"
+    }
+   },
+   {
+    "n": 15,
+    "q": "When is the safety desk open on Saturdays?",
+    "opts": {
+     "A": "8:00-12:00",
+     "B": "9:00-13:00",
+     "C": "10:00-14:00"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Main Library"
+   ],
+   [
+    "B",
+    "Town Hall foyer"
+   ],
+   [
+    "C",
+    "Market entrance"
+   ],
+   [
+    "D",
+    "Riverside car park"
+   ],
+   [
+    "E",
+    "Community Centre"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Property marking service"
+   },
+   {
+    "n": 17,
+    "label": "Lost-property desk"
+   },
+   {
+    "n": 18,
+    "label": "Cycling safety checks"
+   },
+   {
+    "n": 19,
+    "label": "Free personal alarms"
+   },
+   {
+    "n": 20,
+    "label": "Printed neighbourhood maps"
+   }
+  ],
+  "key": {
+   "1": "Morgan",
+   "11": "A",
+   "2": "Canadian",
+   "12": "B",
+   "3": "P784215",
+   "13": "C",
+   "4": "Riverside Apartments",
+   "14": "A",
+   "5": "backpack",
+   "15": "B",
+   "6": "120",
+   "16": "E",
+   "7": "Tuesday",
+   "17": "C",
+   "8": "market",
+   "18": "D",
+   "9": "blue",
+   "19": "B",
+   "10": "C4721",
+   "20": "A"
+  },
+  "script1": [
+   "Officer: Good morning. City Central Police. How can I help?",
+   "Caller: I need to report a stolen bag.",
+   "Officer: Certainly. Can I take your surname first?",
+   "Caller: It is Morgan — M-O-R-G-A-N. [Q1: Morgan]",
+   "Officer: And your nationality?",
+   "Caller: Canadian. [Q2: Canadian] I am here on holiday.",
+   "Officer: I also need your passport number.",
+   "Caller: That is P seven eight four two one five. [Q3: P784215]",
+   "Officer: Where are you staying at the moment?",
+   "Caller: At Riverside Apartments, near the station. [Q4: Riverside Apartments]",
+   "Officer: What exactly was taken?",
+   "Caller: A backpack. [Q5: backpack] My phone was in my coat, luckily.",
+   "Officer: Was there any money in it?",
+   "Caller: Yes, about one hundred and twenty pounds. [Q6: 120]",
+   "Officer: When did this happen?",
+   "Caller: On Tuesday afternoon. [Q7: Tuesday]",
+   "Officer: Where do you think you lost sight of it?",
+   "Caller: Probably at the market. [Q8: market] I noticed it was gone after I left.",
+   "Officer: What colour is the bag?",
+   "Caller: Dark blue. [Q9: blue]",
+   "Officer: Thank you. Your crime reference is C four seven two one. [Q10: C4721] Please keep that number."
+  ],
+  "script2": [
+   "Good afternoon. I am Sergeant Ellis, and I want to explain several changes to our community-safety programme. First, the evening patrol route now includes the new shopping area because reports there have increased since it opened. [Q11: A] If you notice suspicious behaviour, do not confront anyone and do not post names online. The first step is to call the non-emergency police number. [Q12: B] At the weekend market, phones are the item reported missing most frequently, more often than wallets or bicycles. [Q13: C] Cyclists should attach a visible identification sticker to the frame; a strong lock is still important, but the sticker helps us return recovered bikes. [Q14: A] Our Saturday safety desk operates from nine in the morning until one in the afternoon. [Q15: B]",
+   "Now for the free services. Property marking takes place at the Community Centre. [Q16: E] The lost-property desk is beside the market entrance. [Q17: C] Bicycle safety checks are carried out in the Riverside car park. [Q18: D] Free personal alarms can be collected from the Town Hall foyer. [Q19: B] Finally, printed neighbourhood maps are available at the Main Library. [Q20: A]"
+  ]
+ },
+ {
+  "n": 2,
+  "title": "Brochure Revision & Visitor Information",
+  "anchor": "[YouPass Collect] - Revision Note | YouPass Collect",
+  "url": "https://youpass.vn/thi-thu/listening/8134",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "BROCHURE REVISION NOTES",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Company name"
+   },
+   {
+    "n": 2,
+    "label": "Main heading colour"
+   },
+   {
+    "n": 3,
+    "label": "Remove the"
+   },
+   {
+    "n": 4,
+    "label": "New photo caption"
+   },
+   {
+    "n": 5,
+    "label": "Use photo of the"
+   },
+   {
+    "n": 6,
+    "label": "Telephone number colour"
+   },
+   {
+    "n": 7,
+    "label": "Translation language"
+   },
+   {
+    "n": 8,
+    "label": "Deadline"
+   },
+   {
+    "n": 9,
+    "label": "Street"
+   },
+   {
+    "n": 10,
+    "label": "Contact number"
+   }
+  ],
+  "p2_title": "VISITOR INFORMATION CENTRE ORIENTATION",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match the facility with its location A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What is the centre mainly trying to improve?",
+    "opts": {
+     "A": "Queue times",
+     "B": "Gift-shop sales",
+     "C": "Car parking"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Where should large tour groups wait?",
+    "opts": {
+     "A": "Inside the exhibition room",
+     "B": "In the covered courtyard",
+     "C": "Beside the ticket machines"
+    }
+   },
+   {
+    "n": 13,
+    "q": "Which service now requires advance booking?",
+    "opts": {
+     "A": "Guided walks",
+     "B": "Audio guides",
+     "C": "Bicycle hire"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What has changed about the cafe?",
+    "opts": {
+     "A": "It closes later",
+     "B": "It serves hot meals all day",
+     "C": "It has moved upstairs"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What is free for local residents?",
+    "opts": {
+     "A": "Printed maps",
+     "B": "Museum entry",
+     "C": "Locker use"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Ground-floor lobby"
+   ],
+   [
+    "B",
+    "First-floor gallery"
+   ],
+   [
+    "C",
+    "Rear courtyard"
+   ],
+   [
+    "D",
+    "East entrance"
+   ],
+   [
+    "E",
+    "Information desk"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Group waiting area"
+   },
+   {
+    "n": 17,
+    "label": "Audio-guide return"
+   },
+   {
+    "n": 18,
+    "label": "Cafe"
+   },
+   {
+    "n": 19,
+    "label": "Accessible entrance"
+   },
+   {
+    "n": 20,
+    "label": "Free city maps"
+   }
+  ],
+  "key": {
+   "1": "Harbour Hotels",
+   "11": "A",
+   "2": "green",
+   "12": "B",
+   "3": "prices",
+   "13": "A",
+   "4": "Ocean View",
+   "14": "C",
+   "5": "garden",
+   "15": "A",
+   "6": "red",
+   "16": "C",
+   "7": "Spanish",
+   "17": "E",
+   "8": "Friday",
+   "18": "B",
+   "9": "Linton",
+   "19": "D",
+   "10": "020 7946 3812",
+   "20": "A"
+  },
+  "script1": [
+   "Designer: Hello, this is Nina from BrightPrint. I am calling about the hotel brochure.",
+   "Manager: Great. I have the revision notes here.",
+   "Designer: Can we confirm the company name?",
+   "Manager: Yes — Harbour Hotels. [Q1: Harbour Hotels]",
+   "Designer: What about the main heading?",
+   "Manager: Keep the wording, but make the letters green. [Q2: green]",
+   "Designer: Anything to remove?",
+   "Manager: Yes, remove the prices because they change seasonally. [Q3: prices]",
+   "Designer: The caption under the first photo?",
+   "Manager: Change it to Ocean View. [Q4: Ocean View]",
+   "Designer: And which picture should we use on the back page?",
+   "Manager: The one showing the garden. [Q5: garden]",
+   "Designer: Any colour change elsewhere?",
+   "Manager: Print the telephone number in red. [Q6: red]",
+   "Designer: Do you still need a translated version?",
+   "Manager: Yes, Spanish this time. [Q7: Spanish]",
+   "Designer: When do you need the final proof?",
+   "Manager: By Friday. [Q8: Friday]",
+   "Designer: Please confirm the street name.",
+   "Manager: Linton Street — L-I-N-T-O-N. [Q9: Linton]",
+   "Designer: And the contact number?",
+   "Manager: 020 7946 3812. [Q10: 020 7946 3812]"
+  ],
+  "script2": [
+   "Welcome to the Visitor Information Centre. This month our main aim is to shorten queue times, especially between ten and noon. [Q11: A] Large tour groups should not block the lobby; please wait in the covered rear courtyard until your guide arrives. [Q12: B] Guided walks are popular, so they now need to be booked in advance. [Q13: A] The cafe has moved upstairs to the first floor, although its opening hours are unchanged. [Q14: C] Local residents can collect printed city maps without charge. [Q15: A]",
+   "For locations: the group waiting area is in the rear courtyard. [Q16: C] Return audio guides at the information desk. [Q17: E] The cafe is in the first-floor gallery area. [Q18: B] The step-free accessible entrance is on the east side. [Q19: D] Free city maps are displayed in the ground-floor lobby. [Q20: A]"
+  ]
+ },
+ {
+  "n": 3,
+  "title": "Hotel Booking & Island Activities",
+  "anchor": "[YouPass Collect] - Hotel Booking Inquiry and Activities | YouPass Collect",
+  "url": "https://youpass.vn/thi-thu/listening/8857",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "ISLAND HOTEL BOOKING",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Guest surname"
+   },
+   {
+    "n": 2,
+    "label": "Arrival date"
+   },
+   {
+    "n": 3,
+    "label": "Number of nights"
+   },
+   {
+    "n": 4,
+    "label": "Airport transfer time"
+   },
+   {
+    "n": 5,
+    "label": "Room type"
+   },
+   {
+    "n": 6,
+    "label": "Balcony view"
+   },
+   {
+    "n": 7,
+    "label": "Breakfast time"
+   },
+   {
+    "n": 8,
+    "label": "Activity chosen"
+   },
+   {
+    "n": 9,
+    "label": "Deposit"
+   },
+   {
+    "n": 10,
+    "label": "Booking code"
+   }
+  ],
+  "p2_title": "ISLAND ACTIVITY BRIEFING",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each activity with the departure point A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Why is Tuesday's boat trip shorter than usual?",
+    "opts": {
+     "A": "High winds are expected",
+     "B": "The guide is unavailable",
+     "C": "The harbour closes early"
+    }
+   },
+   {
+    "n": 12,
+    "q": "What should guests take on the forest walk?",
+    "opts": {
+     "A": "A packed lunch",
+     "B": "Insect repellent",
+     "C": "Walking poles"
+    }
+   },
+   {
+    "n": 13,
+    "q": "Which activity is suitable for beginners?",
+    "opts": {
+     "A": "Sea kayaking",
+     "B": "Cliff climbing",
+     "C": "Deep-water diving"
+    }
+   },
+   {
+    "n": 14,
+    "q": "Where will Thursday's dinner be held?",
+    "opts": {
+     "A": "On the beach",
+     "B": "At the hotel",
+     "C": "On a boat"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What must guests do before hiring a bicycle?",
+    "opts": {
+     "A": "Pay in cash",
+     "B": "Show identification",
+     "C": "Watch a safety video"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Hotel lobby"
+   ],
+   [
+    "B",
+    "South jetty"
+   ],
+   [
+    "C",
+    "Beach hut"
+   ],
+   [
+    "D",
+    "Forest gate"
+   ],
+   [
+    "E",
+    "Sports centre"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Boat trip"
+   },
+   {
+    "n": 17,
+    "label": "Forest walk"
+   },
+   {
+    "n": 18,
+    "label": "Kayaking"
+   },
+   {
+    "n": 19,
+    "label": "Bicycle hire"
+   },
+   {
+    "n": 20,
+    "label": "Evening food tour"
+   }
+  ],
+  "key": {
+   "1": "Bennett",
+   "11": "A",
+   "2": "25 April",
+   "12": "B",
+   "3": "12",
+   "13": "A",
+   "4": "45 minutes",
+   "14": "B",
+   "5": "double",
+   "15": "C",
+   "6": "harbour",
+   "16": "B",
+   "7": "7:30",
+   "17": "D",
+   "8": "kayaking",
+   "18": "C",
+   "9": "150",
+   "19": "E",
+   "10": "HB602",
+   "20": "A"
+  },
+  "script1": [
+   "Receptionist: Sunbay Hotel, how may I help?",
+   "Guest: I would like to reserve a room for my partner and me.",
+   "Receptionist: Your surname, please?",
+   "Guest: Bennett. [Q1: Bennett]",
+   "Receptionist: And when will you arrive?",
+   "Guest: On the twenty-fifth of April. [Q2: 25 April]",
+   "Receptionist: How long are you staying?",
+   "Guest: Twelve nights. [Q3: 12]",
+   "Receptionist: Our airport shuttle usually takes about forty-five minutes. [Q4: 45 minutes]",
+   "Guest: That is fine.",
+   "Receptionist: Would you like a twin or double room?",
+   "Guest: A double, please. [Q5: double]",
+   "Receptionist: We have one with a harbour view.",
+   "Guest: Perfect — harbour view. [Q6: harbour]",
+   "Receptionist: Breakfast starts at seven thirty. [Q7: 7:30]",
+   "Guest: Good.",
+   "Receptionist: Would you like to add an activity? Kayaking is available on Tuesday.",
+   "Guest: Yes, book kayaking for us. [Q8: kayaking]",
+   "Receptionist: The deposit is one hundred and fifty pounds. [Q9: 150] Your booking code is HB six zero two. [Q10: HB602]"
+  ],
+  "script2": [
+   "Here is your weekly activity briefing. Tuesday's boat trip will be a little shorter because strong winds are expected later in the afternoon. [Q11: A] For the forest walk, bring insect repellent; lunch is provided and walking poles are optional. [Q12: B] Sea kayaking is designed for beginners, with a short lesson before you enter the water. [Q13: A] Thursday's special dinner will take place at the hotel rather than on the beach. [Q14: B] Before using one of our bicycles, everyone must watch the ten-minute safety video. [Q15: C]",
+   "The boat trip leaves from the South jetty. [Q16: B] The forest walk starts at the forest gate. [Q17: D] Kayaking groups meet at the beach hut. [Q18: C] Bicycle hire is organised at the sports centre. [Q19: E] The evening food tour meets in the hotel lobby. [Q20: A]"
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Foxton Bay Holiday Park & Coastal Tour",
+  "anchor": "[YouPass Collect] - Holiday Accommodation Foxton Bay | YouPass Collect",
+  "url": "https://youpass.vn/thi-thu/listening/10012",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "FOXTON BAY HOLIDAY PARK",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Beach description"
+   },
+   {
+    "n": 2,
+    "label": "Pool feature"
+   },
+   {
+    "n": 3,
+    "label": "Equipment hire"
+   },
+   {
+    "n": 4,
+    "label": "Kitchen appliance"
+   },
+   {
+    "n": 5,
+    "label": "Family entertainment"
+   },
+   {
+    "n": 6,
+    "label": "Welcome-pack tea"
+   },
+   {
+    "n": 7,
+    "label": "Drive to town"
+   },
+   {
+    "n": 8,
+    "label": "Nearby facility"
+   },
+   {
+    "n": 9,
+    "label": "Town attraction"
+   },
+   {
+    "n": 10,
+    "label": "Weekly price"
+   }
+  ],
+  "p2_title": "COASTAL DISCOVERY TOUR",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each stop with the correct meeting point A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What is the main purpose of the morning tour?",
+    "opts": {
+     "A": "Bird watching",
+     "B": "Learning local history",
+     "C": "Photography practice"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Why might the lighthouse section be cancelled?",
+    "opts": {
+     "A": "A narrow path may be wet",
+     "B": "The guide may be late",
+     "C": "The building is under repair"
+    }
+   },
+   {
+    "n": 13,
+    "q": "What is included in the tour price?",
+    "opts": {
+     "A": "Lunch",
+     "B": "Binoculars",
+     "C": "Museum entry"
+    }
+   },
+   {
+    "n": 14,
+    "q": "Where can visitors refill water bottles?",
+    "opts": {
+     "A": "At the museum",
+     "B": "At the picnic field",
+     "C": "At the lighthouse"
+    }
+   },
+   {
+    "n": 15,
+    "q": "Who receives a discount?",
+    "opts": {
+     "A": "Children under 12",
+     "B": "Students",
+     "C": "Park residents"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Reception"
+   ],
+   [
+    "B",
+    "Old bridge"
+   ],
+   [
+    "C",
+    "Picnic field"
+   ],
+   [
+    "D",
+    "Harbour museum"
+   ],
+   [
+    "E",
+    "North beach"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "History walk"
+   },
+   {
+    "n": 17,
+    "label": "Beach ecology session"
+   },
+   {
+    "n": 18,
+    "label": "Sunset photography"
+   },
+   {
+    "n": 19,
+    "label": "Family picnic"
+   },
+   {
+    "n": 20,
+    "label": "Tour registration"
+   }
+  ],
+  "key": {
+   "1": "quiet",
+   "11": "B",
+   "2": "heated",
+   "12": "A",
+   "3": "bicycle",
+   "13": "C",
+   "4": "dishwasher",
+   "14": "B",
+   "5": "games",
+   "15": "C",
+   "6": "herbal",
+   "16": "D",
+   "7": "20 minutes",
+   "17": "E",
+   "8": "supermarket",
+   "18": "B",
+   "9": "aquarium",
+   "19": "C",
+   "10": "865",
+   "20": "A"
+  },
+  "script1": [
+   "Agent: Foxton Bay Holiday Park. How can I help?",
+   "Caller: I am considering a family cottage in August.",
+   "Agent: The beach here is very quiet, even in summer. [Q1: quiet]",
+   "Caller: That sounds ideal.",
+   "Agent: The swimming pool is heated. [Q2: heated] We also have tennis courts and bicycle hire. [Q3: bicycle]",
+   "Caller: What is in the cottage kitchen?",
+   "Agent: A full cooker, microwave and dishwasher. [Q4: dishwasher]",
+   "Caller: Anything for children indoors?",
+   "Agent: The living room has a cupboard of family games. [Q5: games]",
+   "Caller: Is anything provided when we arrive?",
+   "Agent: Yes, a welcome pack with coffee and herbal tea. [Q6: herbal]",
+   "Caller: How far is the nearest town?",
+   "Agent: About twenty minutes by car. [Q7: 20 minutes]",
+   "Caller: And shopping?",
+   "Agent: There is a supermarket five minutes away. [Q8: supermarket]",
+   "Caller: What can children do in town?",
+   "Agent: There is an aquarium beside the harbour. [Q9: aquarium]",
+   "Caller: What is the price for the week beginning 22 August?",
+   "Agent: Eight hundred and sixty-five pounds. [Q10: 865]"
+  ],
+  "script2": [
+   "The Coastal Discovery Tour focuses mainly on the history of Foxton Bay and the families who worked around the old harbour. [Q11: B] We normally walk to the lighthouse, but that section can be cancelled if rain makes the narrow path unsafe. [Q12: A] Your ticket includes entry to the Harbour Museum, although lunch and binoculars are extra. [Q13: C] You can refill water bottles at the picnic field. [Q14: B] Guests staying at the holiday park receive a resident discount. [Q15: C]",
+   "The history walk meets at the Harbour Museum. [Q16: D] The beach ecology session begins on North Beach. [Q17: E] Sunset photography starts beside the old bridge. [Q18: B] The family picnic is held in the picnic field. [Q19: C] All participants register at reception. [Q20: A]"
+  ]
+ },
+ {
+  "n": 5,
+  "title": "Newspaper Photo Request & Media Centre Tour",
+  "anchor": "[Actual Test] - Newspaper Photo Reprint Request Form | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10461",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "PHOTO REPRINT REQUEST",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Newspaper date"
+   },
+   {
+    "n": 2,
+    "label": "Section"
+   },
+   {
+    "n": 3,
+    "label": "Story title keyword"
+   },
+   {
+    "n": 4,
+    "label": "Subject surname"
+   },
+   {
+    "n": 5,
+    "label": "Intended use"
+   },
+   {
+    "n": 6,
+    "label": "Image type"
+   },
+   {
+    "n": 7,
+    "label": "Number of copies"
+   },
+   {
+    "n": 8,
+    "label": "Total price"
+   },
+   {
+    "n": 9,
+    "label": "Delivery method"
+   },
+   {
+    "n": 10,
+    "label": "Customer reads paper"
+   }
+  ],
+  "p2_title": "MEDIA CENTRE TOUR",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each facility with the correct floor A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What is the oldest item in the archive?",
+    "opts": {
+     "A": "A camera",
+     "B": "A newspaper edition",
+     "C": "A radio recording"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Why are visitors asked not to use flash?",
+    "opts": {
+     "A": "It distracts staff",
+     "B": "It can damage old material",
+     "C": "It affects security cameras"
+    }
+   },
+   {
+    "n": 13,
+    "q": "Which room can be booked by students?",
+    "opts": {
+     "A": "Editing suite",
+     "B": "Main studio",
+     "C": "Press office"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What happens at 2 p.m.?",
+    "opts": {
+     "A": "A live interview",
+     "B": "A printing demonstration",
+     "C": "A photo workshop"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What is sold in the archive shop?",
+    "opts": {
+     "A": "Old cameras",
+     "B": "Reproduction posters",
+     "C": "Used books"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Basement"
+   ],
+   [
+    "B",
+    "Ground floor"
+   ],
+   [
+    "C",
+    "First floor"
+   ],
+   [
+    "D",
+    "Second floor"
+   ],
+   [
+    "E",
+    "Roof level"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Archive storage"
+   },
+   {
+    "n": 17,
+    "label": "Visitor shop"
+   },
+   {
+    "n": 18,
+    "label": "Editing suite"
+   },
+   {
+    "n": 19,
+    "label": "Photo workshop room"
+   },
+   {
+    "n": 20,
+    "label": "Viewing terrace"
+   }
+  ],
+  "key": {
+   "1": "10 March",
+   "11": "B",
+   "2": "sports",
+   "12": "B",
+   "3": "athlete",
+   "13": "A",
+   "4": "Wells",
+   "14": "C",
+   "5": "school display",
+   "15": "B",
+   "6": "digital",
+   "16": "A",
+   "7": "3",
+   "17": "B",
+   "8": "42",
+   "18": "C",
+   "9": "email",
+   "19": "D",
+   "10": "weekly",
+   "20": "E"
+  },
+  "script1": [
+   "Clerk: Photo archive. What can I find for you?",
+   "Customer: I need a photo from the newspaper dated the tenth of March. [Q1: 10 March]",
+   "Clerk: Which section was it in?",
+   "Customer: The sports section. [Q2: sports]",
+   "Clerk: Do you remember the story?",
+   "Customer: Yes, it was about a student athlete. [Q3: athlete]",
+   "Clerk: What was the student's surname?",
+   "Customer: Wells — W-E-L-L-S. [Q4: Wells]",
+   "Clerk: How will you use the image?",
+   "Customer: For a school display. [Q5: school display]",
+   "Clerk: Would you like a print or a digital file?",
+   "Customer: Digital, please. [Q6: digital]",
+   "Clerk: How many licensed copies?",
+   "Customer: Three. [Q7: 3]",
+   "Clerk: The total comes to forty-two dollars. [Q8: 42]",
+   "Customer: Fine.",
+   "Clerk: We can email the file or post a disc.",
+   "Customer: Email is best. [Q9: email]",
+   "Clerk: How often do you usually read our paper?",
+   "Customer: About once a week. [Q10: weekly]"
+  ],
+  "script2": [
+   "Welcome to the City Media Centre. The oldest item in our collection is a newspaper edition printed in 1896. [Q11: B] Please do not use flash photography because strong light can damage fragile paper and photographs. [Q12: B] University students may book the editing suite for project work. [Q13: A] At two o'clock there will be a practical photo workshop in Room 204. [Q14: C] The archive shop sells reproduction posters based on famous front pages. [Q15: B]",
+   "Archive storage is in the basement. [Q16: A] The visitor shop is on the ground floor. [Q17: B] The editing suite is on the first floor. [Q18: C] The photo workshop room is on the second floor. [Q19: D] Finally, the viewing terrace is at roof level. [Q20: E]"
+  ]
+ },
+ {
+  "n": 6,
+  "title": "Music Agency Membership & Arts Centre Open Day",
+  "anchor": "[Actual Test] - Music Alive Agency | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10197",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "MUSIC ALIVE MEMBERSHIP NOTES",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Contact person"
+   },
+   {
+    "n": 2,
+    "label": "Member records"
+   },
+   {
+    "n": 3,
+    "label": "Music styles"
+   },
+   {
+    "n": 4,
+    "label": "Newsletter frequency"
+   },
+   {
+    "n": 5,
+    "label": "Adult fee"
+   },
+   {
+    "n": 6,
+    "label": "Current members"
+   },
+   {
+    "n": 7,
+    "label": "Extra facility"
+   },
+   {
+    "n": 8,
+    "label": "Free advice"
+   },
+   {
+    "n": 9,
+    "label": "Application item"
+   },
+   {
+    "n": 10,
+    "label": "Street"
+   }
+  ],
+  "p2_title": "ARTS CENTRE OPEN DAY",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each activity with the correct venue A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What is the open day designed to do?",
+    "opts": {
+     "A": "Recruit staff",
+     "B": "Introduce local arts groups",
+     "C": "Raise money for repairs"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Which event has limited places?",
+    "opts": {
+     "A": "Choir rehearsal",
+     "B": "Songwriting workshop",
+     "C": "Outdoor concert"
+    }
+   },
+   {
+    "n": 13,
+    "q": "What should visitors bring to the drum session?",
+    "opts": {
+     "A": "Their own instrument",
+     "B": "Ear protection",
+     "C": "A notebook"
+    }
+   },
+   {
+    "n": 14,
+    "q": "Where can children perform?",
+    "opts": {
+     "A": "Small theatre",
+     "B": "Main hall",
+     "C": "Garden stage"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What time does the final concert begin?",
+    "opts": {
+     "A": "5:30",
+     "B": "6:00",
+     "C": "6:30"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Studio 1"
+   ],
+   [
+    "B",
+    "Main Hall"
+   ],
+   [
+    "C",
+    "Garden Stage"
+   ],
+   [
+    "D",
+    "Meeting Room"
+   ],
+   [
+    "E",
+    "Small Theatre"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Songwriting workshop"
+   },
+   {
+    "n": 17,
+    "label": "Choir rehearsal"
+   },
+   {
+    "n": 18,
+    "label": "Children's performances"
+   },
+   {
+    "n": 19,
+    "label": "Music careers talk"
+   },
+   {
+    "n": 20,
+    "label": "Jazz showcase"
+   }
+  ],
+  "key": {
+   "1": "Jim Granley",
+   "11": "B",
+   "2": "database",
+   "12": "B",
+   "3": "pop and jazz",
+   "13": "B",
+   "4": "monthly",
+   "14": "C",
+   "5": "38",
+   "15": "C",
+   "6": "540",
+   "16": "A",
+   "7": "studio",
+   "17": "B",
+   "8": "legal",
+   "18": "C",
+   "9": "photograph",
+   "19": "D",
+   "10": "Barton",
+   "20": "E"
+  },
+  "script1": [
+   "Caller: Hello, I am interested in joining Music Alive.",
+   "Staff: Of course. The contact person for new members is Jim Granley. [Q1: Jim Granley]",
+   "Caller: How do you keep member details?",
+   "Staff: On a secure database. [Q2: database]",
+   "Caller: What kinds of music do you represent?",
+   "Staff: Mostly modern music, especially pop and jazz. [Q3: pop and jazz]",
+   "Caller: How often is the newsletter published?",
+   "Staff: Monthly. [Q4: monthly]",
+   "Caller: What is the adult membership fee?",
+   "Staff: Thirty-eight pounds. [Q5: 38]",
+   "Caller: How large is the organisation?",
+   "Staff: We currently have about five hundred and forty members. [Q6: 540]",
+   "Caller: What facilities are available?",
+   "Staff: Rehearsal rooms and a recording studio. [Q7: studio]",
+   "Caller: Do members get professional support?",
+   "Staff: Yes, basic legal advice is free. [Q8: legal]",
+   "Caller: What do I send with the form?",
+   "Staff: A recent photograph. [Q9: photograph]",
+   "Caller: And the address?",
+   "Staff: 707 Barton Street. [Q10: Barton]"
+  ],
+  "script2": [
+   "The Arts Centre Open Day is intended to introduce residents to the many local arts groups that use the building. [Q11: B] The songwriting workshop has only twenty places, so please book it at reception. [Q12: B] For the drum session, we provide the drums, but we recommend bringing ear protection. [Q13: B] Children who want to perform can use the Garden Stage. [Q14: C] The final concert starts at half past six. [Q15: C]",
+   "The songwriting workshop is in Studio 1. [Q16: A] Choir rehearsal takes place in the Main Hall. [Q17: B] Children's performances are on the Garden Stage. [Q18: C] The music careers talk is in the Meeting Room. [Q19: D] The jazz showcase is in the Small Theatre. [Q20: E]"
+  ]
+ },
+ {
+  "n": 7,
+  "title": "Damaged Fridge Report & Recycling Centre Briefing",
+  "anchor": "[Actual Test] - Damaged Fridge Report | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10262",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "APPLIANCE DAMAGE REPORT",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Brand/model"
+   },
+   {
+    "n": 2,
+    "label": "Colour"
+   },
+   {
+    "n": 3,
+    "label": "Purchase date"
+   },
+   {
+    "n": 4,
+    "label": "Main problem"
+   },
+   {
+    "n": 5,
+    "label": "Internal temperature"
+   },
+   {
+    "n": 6,
+    "label": "Repair shop landmark"
+   },
+   {
+    "n": 7,
+    "label": "Business type"
+   },
+   {
+    "n": 8,
+    "label": "Estimated loss"
+   },
+   {
+    "n": 9,
+    "label": "Person to call"
+   },
+   {
+    "n": 10,
+    "label": "Part to replace"
+   }
+  ],
+  "p2_title": "HOUSEHOLD RECYCLING CENTRE BRIEFING",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each waste type with the correct zone A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Why was the centre redesigned?",
+    "opts": {
+     "A": "To accept more types of waste",
+     "B": "To reduce opening hours",
+     "C": "To create a larger shop"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Which item is NOT accepted?",
+    "opts": {
+     "A": "Small electrical goods",
+     "B": "Commercial refrigerators",
+     "C": "Household batteries"
+    }
+   },
+   {
+    "n": 13,
+    "q": "What must people do before leaving paint?",
+    "opts": {
+     "A": "Mix colours together",
+     "B": "Tell a member of staff",
+     "C": "Remove the labels"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What is free at the reuse shop?",
+    "opts": {
+     "A": "Delivery",
+     "B": "Repairs",
+     "C": "Entry"
+    }
+   },
+   {
+    "n": 15,
+    "q": "When is the centre least busy?",
+    "opts": {
+     "A": "Early Tuesday",
+     "B": "Saturday afternoon",
+     "C": "Sunday morning"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Zone 1"
+   ],
+   [
+    "B",
+    "Zone 2"
+   ],
+   [
+    "C",
+    "Zone 3"
+   ],
+   [
+    "D",
+    "Zone 4"
+   ],
+   [
+    "E",
+    "Zone 5"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Batteries"
+   },
+   {
+    "n": 17,
+    "label": "Small appliances"
+   },
+   {
+    "n": 18,
+    "label": "Glass"
+   },
+   {
+    "n": 19,
+    "label": "Garden waste"
+   },
+   {
+    "n": 20,
+    "label": "Paint"
+   }
+  ],
+  "key": {
+   "1": "North Mount",
+   "11": "A",
+   "2": "silver",
+   "12": "B",
+   "3": "14 May",
+   "13": "B",
+   "4": "motor",
+   "14": "C",
+   "5": "12",
+   "15": "A",
+   "6": "library",
+   "16": "B",
+   "7": "flower",
+   "17": "D",
+   "8": "310",
+   "18": "A",
+   "9": "manager",
+   "19": "E",
+   "10": "door",
+   "20": "C"
+  },
+  "script1": [
+   "Agent: Customer protection line. Please tell me the model.",
+   "Customer: It is a North Mount refrigerator. [Q1: North Mount]",
+   "Agent: And the colour?",
+   "Customer: Silver. [Q2: silver]",
+   "Agent: When did you buy it?",
+   "Customer: On the fourteenth of May. [Q3: 14 May]",
+   "Agent: What is the main fault?",
+   "Customer: The motor keeps running without stopping. [Q4: motor]",
+   "Agent: What temperature is it reaching?",
+   "Customer: About twelve degrees inside. [Q5: 12]",
+   "Agent: Which repair shop did you contact?",
+   "Customer: Ken's Appliances, near the library. [Q6: library]",
+   "Agent: Why is the loss urgent?",
+   "Customer: I run a flower shop and some stock needs to stay cool. [Q7: flower]",
+   "Agent: What is the estimated value of the damaged stock?",
+   "Customer: Three hundred and ten dollars. [Q8: 310]",
+   "Agent: What would you like us to do first?",
+   "Customer: Ask the manager to call me back. [Q9: manager]",
+   "Agent: Anything else damaged?",
+   "Customer: Yes, the door needs replacing. [Q10: door]"
+  ],
+  "script2": [
+   "Our recycling centre has been redesigned so that we can accept a wider range of household waste. [Q11: A] We take small electrical items and household batteries, but commercial refrigerators must be handled by a specialist contractor. [Q12: B] If you bring paint, please speak to a member of staff before unloading it. [Q13: B] The reuse shop is free to enter; delivery and repairs cost extra. [Q14: C] The quietest time is usually early on Tuesday. [Q15: A]",
+   "Glass goes in Zone 1. [Q18: A] Batteries belong in Zone 2. [Q16: B] Paint is in Zone 3. [Q20: C] Small electrical appliances go to Zone 4. [Q17: D] Garden waste is collected in Zone 5. [Q19: E]"
+  ]
+ },
+ {
+  "n": 8,
+  "title": "Wildlife Society Membership & Nature Reserve Talk",
+  "anchor": "[Actual Test] - Society Applicant Form | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10492",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "WILDLIFE CONSERVATION SOCIETY APPLICATION",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Applicant name"
+   },
+   {
+    "n": 2,
+    "label": "How heard about society"
+   },
+   {
+    "n": 3,
+    "label": "Postcode"
+   },
+   {
+    "n": 4,
+    "label": "Email domain"
+   },
+   {
+    "n": 5,
+    "label": "Membership length"
+   },
+   {
+    "n": 6,
+    "label": "Membership type"
+   },
+   {
+    "n": 7,
+    "label": "Annual fee"
+   },
+   {
+    "n": 8,
+    "label": "Bank name"
+   },
+   {
+    "n": 9,
+    "label": "First payment date"
+   },
+   {
+    "n": 10,
+    "label": "Extra request"
+   }
+  ],
+  "p2_title": "NATURE RESERVE VISITOR TALK",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each feature with the correct location A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What is the reserve best known for?",
+    "opts": {
+     "A": "Rare butterflies",
+     "B": "Migrating birds",
+     "C": "Ancient trees"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Why is the western path closed?",
+    "opts": {
+     "A": "Flooding",
+     "B": "Bird nesting",
+     "C": "Tree cutting"
+    }
+   },
+   {
+    "n": 13,
+    "q": "What may visitors borrow for free?",
+    "opts": {
+     "A": "Binoculars",
+     "B": "Raincoats",
+     "C": "Guidebooks"
+    }
+   },
+   {
+    "n": 14,
+    "q": "Where is food allowed?",
+    "opts": {
+     "A": "Everywhere",
+     "B": "Only in the picnic area",
+     "C": "Only inside the cafe"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What should visitors report?",
+    "opts": {
+     "A": "Any litter they see",
+     "B": "Injured wildlife",
+     "C": "Unusual weather"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Visitor Centre"
+   ],
+   [
+    "B",
+    "Lake hide"
+   ],
+   [
+    "C",
+    "Woodland trail"
+   ],
+   [
+    "D",
+    "Picnic meadow"
+   ],
+   [
+    "E",
+    "East gate"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Free binoculars"
+   },
+   {
+    "n": 17,
+    "label": "Best birdwatching"
+   },
+   {
+    "n": 18,
+    "label": "Ancient oak trees"
+   },
+   {
+    "n": 19,
+    "label": "Food area"
+   },
+   {
+    "n": 20,
+    "label": "Ranger meeting point"
+   }
+  ],
+  "key": {
+   "1": "Michael Jones",
+   "11": "B",
+   "2": "radio",
+   "12": "B",
+   "3": "LS8 4RP",
+   "13": "A",
+   "4": "greenmail.com",
+   "14": "B",
+   "5": "2",
+   "15": "B",
+   "6": "family",
+   "16": "A",
+   "7": "72",
+   "17": "B",
+   "8": "North Bank",
+   "18": "C",
+   "9": "1 June",
+   "19": "D",
+   "10": "newsletter",
+   "20": "E"
+  },
+  "script1": [
+   "Officer: Wildlife Conservation Society. May I take your name?",
+   "Caller: Michael Jones. [Q1: Michael Jones]",
+   "Officer: How did you hear about us?",
+   "Caller: On the radio. [Q2: radio]",
+   "Officer: What is your postcode?",
+   "Caller: LS8 4RP. [Q3: LS8 4RP]",
+   "Officer: And your email?",
+   "Caller: m.jones at greenmail dot com. [Q4: greenmail.com]",
+   "Officer: How long would you like to join for?",
+   "Caller: Two years. [Q5: 2]",
+   "Officer: Which membership type?",
+   "Caller: Family membership, please. [Q6: family]",
+   "Officer: The annual fee is seventy-two pounds. [Q7: 72]",
+   "Caller: That is fine.",
+   "Officer: Which bank will the direct debit come from?",
+   "Caller: North Bank. [Q8: North Bank]",
+   "Officer: The first payment can be taken on the first of June. [Q9: 1 June]",
+   "Caller: Perfect. Could you also send me the monthly newsletter? [Q10: newsletter]"
+  ],
+  "script2": [
+   "This reserve is particularly famous for migrating birds that stop here in spring and autumn. [Q11: B] The western path is temporarily closed because birds are nesting close to the trail. [Q12: B] You can borrow binoculars free of charge from the Visitor Centre. [Q13: A] Please eat only in the picnic meadow so that wildlife does not become dependent on human food. [Q14: B] If you see injured wildlife, tell a ranger immediately. [Q15: B]",
+   "Free binoculars are available at the Visitor Centre. [Q16: A] The best birdwatching is from the lake hide. [Q17: B] The oldest oak trees are on the woodland trail. [Q18: C] Food is allowed in the picnic meadow. [Q19: D] Ranger-led walks meet at the east gate. [Q20: E]"
+  ]
+ },
+ {
+  "n": 9,
+  "title": "Job Centre Registration & Part-time Work Seminar",
+  "anchor": "[Actual Test] - Job Centre | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/9962",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "STUDENT JOB CENTRE REGISTRATION",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Student surname"
+   },
+   {
+    "n": 2,
+    "label": "Course"
+   },
+   {
+    "n": 3,
+    "label": "Year of study"
+   },
+   {
+    "n": 4,
+    "label": "Preferred work"
+   },
+   {
+    "n": 5,
+    "label": "Available evenings"
+   },
+   {
+    "n": 6,
+    "label": "Saturday availability"
+   },
+   {
+    "n": 7,
+    "label": "Minimum hourly rate"
+   },
+   {
+    "n": 8,
+    "label": "Previous experience"
+   },
+   {
+    "n": 9,
+    "label": "Contact method"
+   },
+   {
+    "n": 10,
+    "label": "Registration number"
+   }
+  ],
+  "p2_title": "PART-TIME WORK SEMINAR",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match the vacancy with the correct workplace A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Who may need extra permission before taking a job?",
+    "opts": {
+     "A": "International students",
+     "B": "Final-year students",
+     "C": "Students under 21"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Where is the Job Centre now located?",
+    "opts": {
+     "A": "North Campus",
+     "B": "Library building",
+     "C": "Sports Centre"
+    }
+   },
+   {
+    "n": 13,
+    "q": "When is the employment adviser available?",
+    "opts": {
+     "A": "Monday",
+     "B": "Wednesday",
+     "C": "Friday"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What is the main benefit of part-time work mentioned?",
+    "opts": {
+     "A": "Higher grades",
+     "B": "A stronger work record",
+     "C": "Free training courses"
+    }
+   },
+   {
+    "n": 15,
+    "q": "How are most campus jobs advertised?",
+    "opts": {
+     "A": "By email bulletin",
+     "B": "On printed posters",
+     "C": "Through tutors"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Library"
+   ],
+   [
+    "B",
+    "Sports Centre"
+   ],
+   [
+    "C",
+    "Admissions Office"
+   ],
+   [
+    "D",
+    "IT Helpdesk"
+   ],
+   [
+    "E",
+    "Student Cafe"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Evening receptionist"
+   },
+   {
+    "n": 17,
+    "label": "Data-entry assistant"
+   },
+   {
+    "n": 18,
+    "label": "Weekend server"
+   },
+   {
+    "n": 19,
+    "label": "Computer support helper"
+   },
+   {
+    "n": 20,
+    "label": "Shelf assistant"
+   }
+  ],
+  "key": {
+   "1": "Nguyen",
+   "11": "A",
+   "2": "business",
+   "12": "A",
+   "3": "2",
+   "13": "C",
+   "4": "reception",
+   "14": "B",
+   "5": "three",
+   "15": "A",
+   "6": "morning",
+   "16": "B",
+   "7": "12",
+   "17": "C",
+   "8": "hotel",
+   "18": "E",
+   "9": "email",
+   "19": "D",
+   "10": "JC318",
+   "20": "A"
+  },
+  "script1": [
+   "Adviser: Welcome to the Student Job Centre. Your surname?",
+   "Student: Nguyen — N-G-U-Y-E-N. [Q1: Nguyen]",
+   "Adviser: What are you studying?",
+   "Student: Business. [Q2: business]",
+   "Adviser: Which year are you in?",
+   "Student: Second year. [Q3: 2]",
+   "Adviser: What kind of part-time work would you prefer?",
+   "Student: Reception work, if possible. [Q4: reception]",
+   "Adviser: How many evenings are you free?",
+   "Student: Three evenings a week. [Q5: three]",
+   "Adviser: Are you free on Saturdays?",
+   "Student: Only in the morning. [Q6: morning]",
+   "Adviser: What is the minimum hourly rate you would accept?",
+   "Student: Twelve pounds. [Q7: 12]",
+   "Adviser: Any previous work experience?",
+   "Student: Yes, I worked in a hotel last summer. [Q8: hotel]",
+   "Adviser: Best way to contact you?",
+   "Student: Email, please. [Q9: email]",
+   "Adviser: Your registration number is JC three one eight. [Q10: JC318]"
+  ],
+  "script2": [
+   "Some international students need to check visa conditions before accepting paid work. [Q11: A] The Job Centre has moved to the North Campus, beside the main bus stop. [Q12: A] Our employment adviser is available on Fridays. [Q13: C] A part-time job will not automatically lead to a graduate position, but it can give you a useful work record for future applications. [Q14: B] Most campus jobs are now advertised through the weekly email bulletin. [Q15: A]",
+   "The Sports Centre needs an evening receptionist. [Q16: B] The Admissions Office has a data-entry vacancy. [Q17: C] The Student Cafe needs weekend servers. [Q18: E] The IT Helpdesk is recruiting computer-support helpers. [Q19: D] The Library needs shelf assistants. [Q20: A]"
+  ]
+ },
+ {
+  "n": 10,
+  "title": "Office Move Request & New Building Orientation",
+  "anchor": "[Actual Test] - Moving Office | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10493",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "OFFICE MOVE - STAFF DETAILS",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Employee surname"
+   },
+   {
+    "n": 2,
+    "label": "Department"
+   },
+   {
+    "n": 3,
+    "label": "Desk number"
+   },
+   {
+    "n": 4,
+    "label": "Box quantity"
+   },
+   {
+    "n": 5,
+    "label": "Fragile item"
+   },
+   {
+    "n": 6,
+    "label": "Collection date"
+   },
+   {
+    "n": 7,
+    "label": "Preferred time"
+   },
+   {
+    "n": 8,
+    "label": "Old floor"
+   },
+   {
+    "n": 9,
+    "label": "New floor"
+   },
+   {
+    "n": 10,
+    "label": "Move code"
+   }
+  ],
+  "p2_title": "NEW OFFICE BUILDING ORIENTATION",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each facility with the correct area A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Why is the company moving?",
+    "opts": {
+     "A": "It needs more space",
+     "B": "Rent has increased",
+     "C": "Public transport is better"
+    }
+   },
+   {
+    "n": 12,
+    "q": "What feature do staff like most?",
+    "opts": {
+     "A": "Natural light",
+     "B": "Air conditioning",
+     "C": "Quiet rooms"
+    }
+   },
+   {
+    "n": 13,
+    "q": "When will the move happen?",
+    "opts": {
+     "A": "Before the sales conference",
+     "B": "After the tax year",
+     "C": "During the annual holiday"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What is already on the company website?",
+    "opts": {
+     "A": "Parking details",
+     "B": "Restaurant recommendations",
+     "C": "Bus and train information"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What should staff do before packing?",
+    "opts": {
+     "A": "Take home personal items",
+     "B": "Report all old furniture",
+     "C": "Print every document"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Ground floor"
+   ],
+   [
+    "B",
+    "Second floor"
+   ],
+   [
+    "C",
+    "Third floor"
+   ],
+   [
+    "D",
+    "Fifth floor"
+   ],
+   [
+    "E",
+    "Basement"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Reception"
+   },
+   {
+    "n": 17,
+    "label": "Training rooms"
+   },
+   {
+    "n": 18,
+    "label": "Staff cafe"
+   },
+   {
+    "n": 19,
+    "label": "Sales department"
+   },
+   {
+    "n": 20,
+    "label": "Secure archive"
+   }
+  ],
+  "key": {
+   "1": "Patel",
+   "11": "A",
+   "2": "sales",
+   "12": "A",
+   "3": "47",
+   "13": "B",
+   "4": "6",
+   "14": "C",
+   "5": "monitor",
+   "15": "A",
+   "6": "18 July",
+   "16": "A",
+   "7": "9:30",
+   "17": "B",
+   "8": "3",
+   "18": "C",
+   "9": "5",
+   "19": "D",
+   "10": "MV204",
+   "20": "E"
+  },
+  "script1": [
+   "Coordinator: Office relocation team. Can I take your surname?",
+   "Employee: Patel. [Q1: Patel]",
+   "Coordinator: Which department are you in?",
+   "Employee: Sales. [Q2: sales]",
+   "Coordinator: Your current desk number?",
+   "Employee: Forty-seven. [Q3: 47]",
+   "Coordinator: How many packing boxes do you need?",
+   "Employee: Six should be enough. [Q4: 6]",
+   "Coordinator: Any fragile equipment?",
+   "Employee: My monitor. [Q5: monitor]",
+   "Coordinator: When should we collect the boxes?",
+   "Employee: On the eighteenth of July. [Q6: 18 July]",
+   "Coordinator: Morning or afternoon?",
+   "Employee: About nine thirty would be ideal. [Q7: 9:30]",
+   "Coordinator: You are currently on floor three, correct?",
+   "Employee: Yes. [Q8: 3]",
+   "Coordinator: Your new desk is on floor five. [Q9: 5] The move code is MV two zero four. [Q10: MV204]"
+  ],
+  "script2": [
+   "The main reason for moving is that the company needs more space for new teams. [Q11: A] Staff who visited the new building were most positive about the amount of natural light. [Q12: A] The move will take place after the end of the tax year. [Q13: B] The company website already has detailed public-transport information for the new location. [Q14: C] Before packing begins, please take home personal belongings that do not need to move with you. [Q15: A]",
+   "Reception will be on the ground floor. [Q16: A] Training rooms are on the second floor. [Q17: B] The staff cafe is on the third floor. [Q18: C] Sales will occupy the fifth floor. [Q19: D] The secure archive is in the basement. [Q20: E]"
+  ]
+ },
+ {
+  "n": 11,
+  "title": "Albany Fishing Competition & Event Site Briefing",
+  "anchor": "[Actual Test] - Albany Fishing Competition | Actual Test (as labelled by YouPass)",
+  "url": "https://youpass.vn/thi-thu/listening/10147",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "FISHING COMPETITION REGISTRATION",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Competitor surname"
+   },
+   {
+    "n": 2,
+    "label": "Age group"
+   },
+   {
+    "n": 3,
+    "label": "Competition days"
+   },
+   {
+    "n": 4,
+    "label": "Boat required"
+   },
+   {
+    "n": 5,
+    "label": "Licence number"
+   },
+   {
+    "n": 6,
+    "label": "Emergency contact"
+   },
+   {
+    "n": 7,
+    "label": "Mobile number"
+   },
+   {
+    "n": 8,
+    "label": "Dietary request"
+   },
+   {
+    "n": 9,
+    "label": "Entry fee"
+   },
+   {
+    "n": 10,
+    "label": "Competitor number"
+   }
+  ],
+  "p2_title": "COMPETITION SITE BRIEFING",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each area with the correct zone A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "What must competitors show at registration?",
+    "opts": {
+     "A": "Photo identification",
+     "B": "Cash receipt",
+     "C": "Boat certificate"
+    }
+   },
+   {
+    "n": 12,
+    "q": "What is included in the entry fee?",
+    "opts": {
+     "A": "Fishing equipment",
+     "B": "Saturday dinner",
+     "C": "Boat fuel"
+    }
+   },
+   {
+    "n": 13,
+    "q": "How should competitors obtain a licence if they do not have one?",
+    "opts": {
+     "A": "At the desk",
+     "B": "By phone",
+     "C": "Online"
+    }
+   },
+   {
+    "n": 14,
+    "q": "What happens at 6 p.m. on Sunday?",
+    "opts": {
+     "A": "Fishing ends",
+     "B": "Judging begins",
+     "C": "Prizes are presented"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What is the main safety rule?",
+    "opts": {
+     "A": "Wear a life jacket on boats",
+     "B": "Fish only in pairs",
+     "C": "Stay within sight of the bridge"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "North field"
+   ],
+   [
+    "B",
+    "West shore"
+   ],
+   [
+    "C",
+    "Marina ramp"
+   ],
+   [
+    "D",
+    "Central tent"
+   ],
+   [
+    "E",
+    "South lawn"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "Registration"
+   },
+   {
+    "n": 17,
+    "label": "Shore fishing"
+   },
+   {
+    "n": 18,
+    "label": "Boat launching"
+   },
+   {
+    "n": 19,
+    "label": "Judging"
+   },
+   {
+    "n": 20,
+    "label": "Prize-giving"
+   }
+  ],
+  "key": {
+   "1": "Dawson",
+   "11": "A",
+   "2": "adult",
+   "12": "B",
+   "3": "2",
+   "13": "C",
+   "4": "yes",
+   "14": "A",
+   "5": "F90318",
+   "15": "A",
+   "6": "Helen",
+   "16": "D",
+   "7": "07700 431226",
+   "17": "B",
+   "8": "vegetarian",
+   "18": "C",
+   "9": "55",
+   "19": "A",
+   "10": "A146",
+   "20": "E"
+  },
+  "script1": [
+   "Registrar: Albany Fishing Weekend. Your surname?",
+   "Competitor: Dawson. [Q1: Dawson]",
+   "Registrar: Are you entering the junior or adult category?",
+   "Competitor: Adult. [Q2: adult]",
+   "Registrar: Will you compete on one day or both days?",
+   "Competitor: Both — so two days. [Q3: 2]",
+   "Registrar: Do you need to hire a boat?",
+   "Competitor: Yes, please. [Q4: yes]",
+   "Registrar: Your fishing licence number?",
+   "Competitor: F nine zero three one eight. [Q5: F90318]",
+   "Registrar: Emergency contact name?",
+   "Competitor: Helen Dawson. Just put Helen. [Q6: Helen]",
+   "Registrar: Her mobile number?",
+   "Competitor: 07700 431226. [Q7: 07700 431226]",
+   "Registrar: Any dietary requirements for the evening meal?",
+   "Competitor: Vegetarian. [Q8: vegetarian]",
+   "Registrar: The entry fee is fifty-five dollars. [Q9: 55]",
+   "Competitor: Fine.",
+   "Registrar: Your competitor number is A one four six. [Q10: A146]"
+  ],
+  "script2": [
+   "Please bring photo identification to the registration desk. [Q11: A] Your entry fee includes Saturday dinner, but equipment and boat fuel are extra. [Q12: B] If you do not already have a fishing licence, apply online before you arrive. [Q13: C] Fishing finishes at six o'clock on Sunday evening; judging starts shortly afterwards. [Q14: A] Anyone using a boat must wear a life jacket at all times. [Q15: A]",
+   "Registration is in the central tent. [Q16: D] Shore fishing is along the west shore. [Q17: B] Boats launch from the marina ramp. [Q18: C] Judging takes place in the north field. [Q19: A] Prize-giving is on the south lawn. [Q20: E]"
+  ]
+ },
+ {
+  "n": 12,
+  "title": "Charity Race Registration & Race Village Briefing",
+  "anchor": "YouPass Listening page ID 10238 - race-day Part 2 (title not exposed in search index) | YouPass indexed Listening page",
+  "url": "https://youpass.vn/thi-thu/listening/10238",
+  "p1_directions": "Complete the notes/form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+  "p1_title": "CITY CHARITY RUN REGISTRATION",
+  "p1": [
+   {
+    "n": 1,
+    "label": "Runner surname"
+   },
+   {
+    "n": 2,
+    "label": "Race distance"
+   },
+   {
+    "n": 3,
+    "label": "Age"
+   },
+   {
+    "n": 4,
+    "label": "T-shirt size"
+   },
+   {
+    "n": 5,
+    "label": "Emergency contact"
+   },
+   {
+    "n": 6,
+    "label": "Contact number"
+   },
+   {
+    "n": 7,
+    "label": "Running group"
+   },
+   {
+    "n": 8,
+    "label": "Estimated finish"
+   },
+   {
+    "n": 9,
+    "label": "Donation target"
+   },
+   {
+    "n": 10,
+    "label": "Registration code"
+   }
+  ],
+  "p2_title": "RACE VILLAGE BRIEFING",
+  "mc_directions": "Questions 11-15. Choose the correct letter, A, B or C.",
+  "match_directions": "Questions 16-20. Match each facility with the correct zone A-E.",
+  "mc": [
+   {
+    "n": 11,
+    "q": "Where should runners park?",
+    "opts": {
+     "A": "Sports ground",
+     "B": "Riverside road",
+     "C": "Shopping centre"
+    }
+   },
+   {
+    "n": 12,
+    "q": "Where should the timing chip be attached?",
+    "opts": {
+     "A": "Shoe",
+     "B": "Wrist",
+     "C": "Shirt"
+    }
+   },
+   {
+    "n": 13,
+    "q": "Which group starts first?",
+    "opts": {
+     "A": "Yellow",
+     "B": "Red",
+     "C": "Purple"
+    }
+   },
+   {
+    "n": 14,
+    "q": "Where are more volunteers still needed?",
+    "opts": {
+     "A": "First aid",
+     "B": "Water stations",
+     "C": "Starting line"
+    }
+   },
+   {
+    "n": 15,
+    "q": "What should runners do with large bags?",
+    "opts": {
+     "A": "Leave them in cars",
+     "B": "Use the bag-drop area",
+     "C": "Take them to the start"
+    }
+   }
+  ],
+  "match_opts": [
+   [
+    "A",
+    "Zone A: beside the stage"
+   ],
+   [
+    "B",
+    "Zone B: near the east gate"
+   ],
+   [
+    "C",
+    "Zone C: behind registration"
+   ],
+   [
+    "D",
+    "Zone D: next to the river path"
+   ],
+   [
+    "E",
+    "Zone E: opposite the cafe"
+   ]
+  ],
+  "match_items": [
+   {
+    "n": 16,
+    "label": "T-shirt stand"
+   },
+   {
+    "n": 17,
+    "label": "Bag drop"
+   },
+   {
+    "n": 18,
+    "label": "Information desk"
+   },
+   {
+    "n": 19,
+    "label": "Prize draw box"
+   },
+   {
+    "n": 20,
+    "label": "Water station"
+   }
+  ],
+  "key": {
+   "1": "Lewis",
+   "11": "C",
+   "2": "10 km",
+   "12": "A",
+   "3": "34",
+   "13": "B",
+   "4": "medium",
+   "14": "B",
+   "5": "Daniel",
+   "15": "B",
+   "6": "07822 519640",
+   "16": "A",
+   "7": "purple",
+   "17": "C",
+   "8": "58 minutes",
+   "18": "B",
+   "9": "300",
+   "19": "E",
+   "10": "CR771",
+   "20": "D"
+  },
+  "script1": [
+   "Volunteer: City Charity Run registration. Your surname, please?",
+   "Runner: Lewis. [Q1: Lewis]",
+   "Volunteer: Which distance are you entering?",
+   "Runner: The ten-kilometre race. [Q2: 10 km]",
+   "Volunteer: Your age?",
+   "Runner: Thirty-four. [Q3: 34]",
+   "Volunteer: What T-shirt size do you need?",
+   "Runner: Medium. [Q4: medium]",
+   "Volunteer: Emergency contact name?",
+   "Runner: Daniel Lewis — Daniel is enough. [Q5: Daniel]",
+   "Volunteer: His phone number?",
+   "Runner: 07822 519640. [Q6: 07822 519640]",
+   "Volunteer: Which colour group are you in?",
+   "Runner: Purple. [Q7: purple]",
+   "Volunteer: What finishing time are you expecting?",
+   "Runner: Around fifty-eight minutes. [Q8: 58 minutes]",
+   "Volunteer: What is your fundraising target?",
+   "Runner: Three hundred pounds. [Q9: 300]",
+   "Volunteer: Great. Your registration code is CR seven seven one. [Q10: CR771]"
+  ],
+  "script2": [
+   "On race day, please use the shopping-centre car park; the sports ground is reserved for emergency vehicles. [Q11: C] Your timing chip must be attached securely to your shoe. [Q12: A] The red group starts first, followed by yellow and then purple. [Q13: B] We still need volunteers at the water stations, while first aid and the starting line are fully staffed. [Q14: B] Large bags should go to the official bag-drop area rather than being carried to the start. [Q15: B]",
+   "The T-shirt stand is beside the stage in Zone A. [Q16: A] The bag drop is behind registration in Zone C. [Q17: C] The information desk is near the east gate in Zone B. [Q18: B] The prize draw box is opposite the cafe in Zone E. [Q19: E] The main water station is next to the river path in Zone D. [Q20: D]"
+  ]
+ }
+]
