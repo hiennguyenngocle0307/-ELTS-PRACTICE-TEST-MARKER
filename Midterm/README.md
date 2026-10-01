@@ -7,8 +7,8 @@ Midterm/
 └── Grammar/
     └── TÂM LINH Midterm Test/          (thư mục riêng của bộ đề Midterm-TÂM LINH)
         ├── Midterm_1/                  (đợt 1 – nguồn: GRAMMAR_MID_L_N_1 + Combine Sentences MID GR Lần 1)
-        │   ├── De_thi_va_Phieu_tra_loi/    20 file: đề thi + Student Answer Sheet (trang cuối)
-        │   └── Dap_an/                     20 file: Answer Key + giải thích chi tiết + nguồn (giáo viên)
+        │   ├── De_thi_va_Phieu_tra_loi/    20 đề (.docx + .pdf): đề thi + Student Answer Sheet (trang cuối)
+        │   └── Dap_an/                     20 đáp án (.docx + .pdf): Answer Key + giải thích chi tiết + nguồn (giáo viên)
         └── Midterm_2/                  (đợt 2 – nguồn: GRAMMAR_MID_L_N_2 + Combine Sentences MID GR Lần 2)
             ├── De_thi_va_Phieu_tra_loi/
             └── Dap_an/
@@ -31,7 +31,10 @@ Midterm/
 4. Đáp án trắc nghiệm do **tự giải** và đối chiếu với các câu đã highlight vàng trong file nguồn (khớp 100% ở các câu có highlight, trừ m2-92: file đánh dấu D "watching to land it" – sai ngữ pháp; đề dùng B "watching it land").
 5. **Nguồn trích dẫn**: ghi chương/chủ điểm của *Understanding and Using English Grammar* (Azar & Hagen) và vị trí câu trong ngân hàng gốc; **chưa có số trang/số Chart** vì không có sách giáo trình.
 6. **Câu bị loại khỏi ngân hàng do lỗi nguồn** (trùng đáp án, thiếu đề, hai đáp án đúng): Midterm 1 – m1-102, 119, 157; Midterm 2 – m2-2, 89, 123, 124, 133, 139. Một số lỗi chính tả/đáp án trùng lặp ở phương án nhiễu đã được sửa nhẹ (vd: m1-43, 44, 73; m2-64, 120).
-7. Các file .docx chưa được kiểm tra bằng hiển thị (môi trường không chạy được LibreOffice) – nên mở thử một vài mã đề trong Word trước khi in.
+7. PDF đã xem thử hiển thị; file .docx chưa được kiểm tra bằng hiển thị (môi trường không chạy được LibreOffice) – nên mở thử một vài mã đề trong Word trước khi in.
+
+## Định dạng
+Mỗi đề và mỗi đáp án có cả **.docx** (chỉnh sửa được) và **.pdf** (in ấn) cùng tên, cùng thư mục. PDF được xuất từ HTML (`_build/html2pdf.js`), nội dung giống file Word, bố cục có thể khác đôi chút.
 
 ## Tạo lại / chỉnh sửa
 `_build/` chứa mã nguồn tạo đề: `cd Midterm/_build && python3 build.py ..` (cần `python-docx`). `exam_composition.json` ghi câu hỏi và đáp án của từng mã đề.

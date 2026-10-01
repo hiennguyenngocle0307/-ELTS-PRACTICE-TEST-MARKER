@@ -296,6 +296,66 @@ def build_key(path,midno,code,qs,combs,cfgmods,cmods):
         run(ps,"Nguồn: ",bold=True,size=9.5,color=(0x44,0x44,0x44)); run(ps,c['ref']+'.',size=9.5,color=(0x44,0x44,0x44))
     d.save(path)
 
+
+# ---------------- HTML (for PDF export) ----------------
+import html as _h
+CSS="""<style>@page{size:A4;margin:1.8cm 2cm}body{font-family:'Times New Roman','Liberation Serif',serif;font-size:11.5pt;line-height:1.25}
+table{border-collapse:collapse}td,th{vertical-align:top}.hd td{padding:2px 6px;text-align:center}.g td,.g th{border:1px solid #000;padding:3px 6px;text-align:center;height:22px}
+.g th{background:#d9e2f3}.q{margin-top:6px;page-break-inside:avoid}.o{margin-left:.8cm}.og{margin-left:.8cm;display:grid;grid-template-columns:repeat(4,1fr);gap:0 .3cm}.og2{margin-left:.8cm;display:grid;grid-template-columns:repeat(2,1fr);gap:0 .3cm}
+hr{border:0;border-top:1px solid #000;margin:8px 0}.i{font-style:italic}.red{color:#c00000}.sm{font-size:9.5pt;color:#444}.k{margin-left:.6cm}.blk{page-break-inside:avoid;margin-top:8px}
+.ln{border-bottom:1px solid #000;height:24px}</style>"""
+def E(t): return _h.escape(t)
+def hhdr(title,midname,code,sub=None):
+    return (f"<table class=hd width=100%><tr><td width=45%><b>{UNI}</b><br>{UNI_VI}</td><td><b style='font-size:13pt'>{E(title)}</b><br><b>{E(midname)} – Code: {code:02d}</b>"
+            +(f"<br><i>{E(sub)}</i>" if sub else "")+"</td></tr></table>")
+def hinfo(): return "<p><b>Full name:</b> ………………………………………………… <b>Student ID:</b> ……………………… <b>Class:</b> …………………</p>"
+def hopts(opts):
+    mx=max(len(v) for v in opts.values())
+    if mx<=16: return "<div class=og>"+"".join(f"<span>{L}. {E(opts[L])}</span>" for L in 'ABCD')+"</div>"
+    if mx<=38: return "<div class=og2>"+"".join(f"<span>{L}. {E(opts[L])}</span>" for L in 'ABCD')+"</div>"
+    return "<div class=o>"+"<br>".join(f"{L}. {E(opts[L])}" for L in 'ABCD')+"</div>"
+def hgrid(answers=None):
+    r="<table class=g align=center><tr>"+"".join(f"<th>{x}</th>" for x in ['No.','A','B','C','D']*2)+"</tr>"
+    for i in range(10):
+        r+="<tr>"
+        for blk in range(2):
+            n=i+1+10*blk; r+=f"<td><b>{n}</b></td>"
+            for L in 'ABCD': r+="<td>"+("●" if answers and answers[n-1]==L else "")+"</td>"
+        r+="</tr>"
+    return r+"</table>"
+def fixab(ln): return re.sub(r'^([a-d])[.]\s*',lambda m:m.group(1)+'.  ',ln)
+def exam_html(midno,code,qs,combs):
+    h=f"<html><head><meta charset=utf-8>{CSS}</head><body>"+hhdr("MIDTERM TEST – GRAMMAR",f"Midterm {midno}",code,f"Time allowed: {TIME}  ·  24 questions")+hinfo()
+    h+="<p class=i style='font-size:10pt'>Instructions: Write your answers on the STUDENT ANSWER SHEET (last page). No dictionaries or notes.</p><hr>"
+    h+=f"<b style='font-size:12pt'>PART I. MULTIPLE CHOICE (Questions 1–20) – {MC_PTS*20:.0f} points</b><br><span class=i>Choose the best answer (A, B, C or D) to complete each sentence or conversation.</span>"
+    for i,(q,arr,_) in enumerate(qs,1):
+        h+=f"<div class=q><b>{i}.</b> "+"<br>".join(E(l) for l in q['stem'].split('\n'))+hopts(arr)+"</div>"
+    h+="<hr><div style='page-break-inside:avoid'>"+f"<b style='font-size:12pt'>PART II. SENTENCE COMBINING (Questions 21–24) – {CB_PTS*4:.0f} points</b><br><span class=i>Combine the three sentences in each group (a, b, c) into ONE correct sentence. Do not leave out any information. You may change the word order and use relative clauses, participial phrases, appositives, conjunctions, etc.</span></div>"
+    for i,c in enumerate(combs,21):
+        h+=f"<div class=q><b>{i}.</b>"+"".join('<div class=o>'+E(fixab(ln))+'</div>' for ln in c['src'])+"</div>"
+    h+="<p align=center><b>— END OF TEST —</b></p>"
+    h+="<div style='page-break-before:always'>"+hhdr("STUDENT ANSWER SHEET",f"Midterm {midno} – Grammar",code)+hinfo()
+    h+=f"<p><b>Date:</b> ……………………… &nbsp; <b>Exam code:</b> <b style='font-size:13pt'>{code:02d}</b></p><p class=i style='font-size:10pt'>Instructions: Use a pen. For Part I, mark ONE answer per question with an X. If you change your answer, cross out clearly and mark the new one.</p>"
+    h+="<b>PART I. MULTIPLE CHOICE (1–20)</b><br><br>"+hgrid()+"<br><b>PART II. SENTENCE COMBINING (21–24)</b>"
+    for n in range(21,25): h+=f"<p style='margin:8px 0 0'><b>{n}.</b></p><div class=ln></div><div class=ln></div>"
+    h+="<br><table class=g align=center width=90%><tr><th>For the grader's use</th><th>Part I (…… / 8)</th><th>Part II (…… / 2)</th><th>TOTAL (…… / 10)</th></tr><tr><td></td><td></td><td></td><td></td></tr></table></div></body></html>"
+    return h
+def key_html(midno,code,qs,combs,cfgmods):
+    h=f"<html><head><meta charset=utf-8>{CSS}</head><body>"+hhdr("ANSWER KEY & EXPLANATIONS",f"Midterm {midno} – Grammar",code,"TEACHER'S COPY – CONFIDENTIAL")
+    h+="<p><b style='font-size:12pt'>Đáp án nhanh – Part I (20 câu)</b></p>"+hgrid([x[2] for x in qs])
+    h+=f"<p><b>Thang điểm:</b> Part I: 20 câu × {MC_PTS} = {MC_PTS*20:.0f} điểm. Part II: 4 câu × {CB_PTS} = {CB_PTS*4:.0f} điểm (mỗi câu: 0,25 đủ cả 3 ý a–b–c; 0,25 ngữ pháp, dấu câu, không lặp thừa). Tổng: 10 điểm.</p>"
+    h+="<p><b>Phạm vi:</b> "+E("; ".join(f"{m[0]} – {m[1]} ({m[2]})" for m in cfgmods))+". Mỗi module 5 câu trắc nghiệm (Q1–5, Q6–10, Q11–15, Q16–20).</p><hr><b style='font-size:12pt'>PART I – GIẢI THÍCH CHI TIẾT</b>"
+    for i,(q,arr,L) in enumerate(qs,1):
+        h+=(f"<div class=blk><b>Câu {i}</b> <i style='font-size:10pt'>[{E(q['module'])} · {E(q['mname'])}]</i> &nbsp;<b>Đáp án: <span class=red>{L}. {E(arr[L])}</span></b>"
+            f"<div class=k><i>{E(' '.join(q['stem'].split(chr(10))).replace('________','_____'))}</i></div>"
+            f"<div class=k><b>Cấu trúc/quy tắc:</b> {E(q['topic'])}. {E(q['exp'])}</div>"
+            f"<div class='k sm'><b>Nguồn:</b> {E(BOOK)}, {E(q['chapter'])} – {E(q['mname'])}; ngân hàng câu hỏi {CFGFILE[midno]} – {E(q['src'])}.</div></div>")
+    h+="<hr><b style='font-size:12pt'>PART II – ĐÁP ÁN THAM KHẢO & GIẢI THÍCH</b><p class=i style='font-size:10pt'>Lưu ý chấm: đây là đáp án tham khảo; chấp nhận mọi cách nối khác đúng ngữ pháp, đủ cả 3 ý và không thay đổi nghĩa.</p>"
+    for i,c in enumerate(combs,21):
+        h+=f"<div class=blk><b>Câu {i}</b>"+"".join(f"<div class=k>{E(l)}</div>" for l in c['src'])
+        h+=f"<div class=k><b>Đáp án mẫu:</b> <b class=red>{E(c['ans'])}</b></div><div class=k><b>Giải thích:</b> Đáp án mẫu dùng {E('; '.join(technique(c['ans'])))}. Cần giữ đủ thông tin của cả ba câu a, b, c, nối thành một câu duy nhất, tránh lặp lại chủ ngữ/đại từ (it, they, he…) không cần thiết và dùng dấu câu đúng.</div><div class='k sm'><b>Nguồn:</b> {E(c['ref'])}.</div></div>"
+    return h+"</body></html>"
+
 CFGFILE={1:'GRAMMAR_MID_L_N_1',2:'GRAMMAR_MID_L_N_2'}
 
 def main():
@@ -317,6 +377,10 @@ def main():
             name=f"Midterm-{BRAND}_Grammar_Mid{midno}_MaDe{code:02d}"
             build_exam(os.path.join(base,'De_thi_va_Phieu_tra_loi',name+'_DeThi.docx'),midno,code,qs,combs,cfgmods)
             build_key(os.path.join(base,'Dap_an',name+'_DapAn.docx'),midno,code,qs,combs,cfgmods,None)
+            if os.environ.get('HTML_OUT'):
+                for sub,fn,hh in (('De_thi_va_Phieu_tra_loi',name+'_DeThi',exam_html(midno,code,qs,combs)),('Dap_an',name+'_DapAn',key_html(midno,code,qs,combs,cfgmods))):
+                    pd=os.path.join(os.environ['HTML_OUT'],f'Midterm_{midno}',sub); os.makedirs(pd,exist_ok=True)
+                    open(os.path.join(pd,fn+'.html'),'w',encoding='utf-8').write(hh)
             summary.append(dict(mid=midno,code=code,mc=[q['id'] for q,_,_ in qs],ans=''.join(a for _,_,a in qs),comb=cb[code-1]))
     json.dump(summary,open(os.path.join(OUT,'_build','exam_composition.json'),'w'),ensure_ascii=False,indent=1)
 if __name__=="__main__": main()
